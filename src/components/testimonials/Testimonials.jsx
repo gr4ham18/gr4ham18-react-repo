@@ -18,7 +18,7 @@ export default function Testimonials() {
       name: "Resume",
       title: "...",
       img:
-        "https://images.pexels.com/photos/428321/pexels-photo-428321.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "assets/writing.png",
       icon: "assets/resume.jpg",
       desc:
         "Check out my resume here!",
