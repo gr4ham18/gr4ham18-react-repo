@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gr4ham18-react-repo/static/css/main.a0756252.css",
+    "main.js": "/gr4ham18-react-repo/static/js/main.0de98998.js",
+    "index.html": "/gr4ham18-react-repo/index.html",
+    "main.a0756252.css.map": "/gr4ham18-react-repo/static/css/main.a0756252.css.map",
+    "main.0de98998.js.map": "/gr4ham18-react-repo/static/js/main.0de98998.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0756252.css",
+    "static/js/main.0de98998.js"
+  ]
+}
