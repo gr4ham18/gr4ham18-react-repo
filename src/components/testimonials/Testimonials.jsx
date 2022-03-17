@@ -11,6 +11,7 @@ export default function Testimonials() {
       icon: "assets/github.png",
       desc:
         "View all my Projects and Repos!",
+        a: "https://gitHub.com/gr4ham18"
     },
     {
       id: 2,
@@ -22,6 +23,7 @@ export default function Testimonials() {
       desc:
         "Check out my resume here!",
       featured: true,
+      
     },
     {
       id: 3,
