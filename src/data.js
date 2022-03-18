@@ -3,37 +3,37 @@ export const featuredPortfolio = [
       id: 1,
       title: "Git It Done ",
       img:
-        "public/assets/gititdone.png",
+        "assets/gititdone.png",
     },
     {
       id: 2,
       title: "Zookeeper",
       img:
-        "public/assets/Zoo.png",
+        "assets/Zoo.png",
     },
     {
       id: 3,
       title: "Taskinator",
       img:
-        "public/assets/taskinator.png",
+        "assets/taskinator.png",
     },
     {
       id: 4,
       title: "Code Quiz",
       img:
-        "public/assets/codequiz.png",
+        "assets/codequiz.png",
     },
     {
       id: 5,
       title: "Note Taker",
       img:
-        "public/assets/Note Taker.png",
+        "assets/Note Taker.png",
     },
     {
       id: 6,
       title: "Password Generator",
       img:
-        "public/assets/password.png",
+        "assets/password.png",
     },
 
   ];
@@ -116,37 +116,37 @@ export const featuredPortfolio = [
       id: 1,
       title: "Coming Soon",
       img:
-        "public/assets/coming-soon-store-placeholder-image.gif",
+        "assets/coming-soon-store-placeholder-image.gif",
     },
     {
       id: 2,
       title: "Coming Soon",
       img:
-        "public/assets/coming-soon-store-placeholder-image.gif",
+        "assets/coming-soon-store-placeholder-image.gif",
     },
     {
       id: 3,
       title: "Coming Soon",
       img:
-        "public/assets/coming-soon-store-placeholder-image.gif",
+        "assets/coming-soon-store-placeholder-image.gif",
     },
     {
       id: 4,
       title: "Coming Soon",
       img:
-        "public/assets/coming-soon-store-placeholder-image.gif",
+        "assets/coming-soon-store-placeholder-image.gif",
     },
     {
       id: 5,
       title: "Coming Soon",
       img:
-        "public/assets/coming-soon-store-placeholder-image.gif",
+        "assets/coming-soon-store-placeholder-image.gif",
     },
     {
       id: 6,
       title: "Coming Soon",
       img:
-        "public/assets/coming-soon-store-placeholder-image.gif",
+        "assets/coming-soon-store-placeholder-image.gif",
     },
   ];
   
@@ -155,37 +155,37 @@ export const featuredPortfolio = [
       id: 1,
       title: "Coming Soon",
       img:
-        "public/assets/coming-soon-store-placeholder-image.gif",
+        "assets/coming-soon-store-placeholder-image.gif",
     },
     {
       id: 2,
       title: "Coming Soon",
       img:
-        "public/assets/coming-soon-store-placeholder-image.gif",
+        "assets/coming-soon-store-placeholder-image.gif",
     },
     {
       id: 3,
       title: "Coming Soon",
       img:
-        "public/assets/coming-soon-store-placeholder-image.gif",
+        "assets/coming-soon-store-placeholder-image.gif",
     },
     {
       id: 4,
       title: "Coming Soon",
       img:
-        "public/assets/coming-soon-store-placeholder-image.gif",
+        "assets/coming-soon-store-placeholder-image.gif",
     },
     {
       id: 5,
       title: "Coming Soon",
       img:
-        "public/assets/coming-soon-store-placeholder-image.gif",
+        "assets/coming-soon-store-placeholder-image.gif",
     },
     {
       id: 6,
       title: "Coming Soon",
       img:
-        "public/assets/coming-soon-store-placeholder-image.gif",
+        "assets/coming-soon-store-placeholder-image.gif",
     },
   ];
   
