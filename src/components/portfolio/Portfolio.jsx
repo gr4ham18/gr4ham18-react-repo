@@ -15,23 +15,23 @@ export default function Portfolio() {
   const list = [
     {
       id: "featured",
-      title: "Featured",
+      title: "Deployed Websites",
     },
     {
       id: "web",
-      title: "Web App",
+      title: "Deployed Websites",
     },
     {
       id: "mobile",
-      title: "Mobile App",
+      title: "Video Walktroughs",
     },
     {
       id: "design",
-      title: "Design",
+      title: "Coming Soon",
     },
     {
       id: "content",
-      title: "Content",
+      title: "Coming Soon",
     },
   ];
 
@@ -59,7 +59,7 @@ export default function Portfolio() {
 
   return (
     <div className="portfolio" id="portfolio">
-      <h1>Portfolio</h1>
+      <h1>Projects</h1>
       <ul>
         {list.map((item) => (
           <PortfolioList

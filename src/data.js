@@ -4,7 +4,6 @@ export const featuredPortfolio = [
       title: "Git It Done ",
       img:
         "public/assets/gititdone.png",
-        href: "https://gr4ham18.github.io/git-it-done/','_blank"
     },
     {
       id: 2,
@@ -37,7 +36,6 @@ export const featuredPortfolio = [
         "public/assets/password.png",
     },
 
-    <td onClick={()=> window.open("featuredPortfolio.href", "_blank")}></td>
   ];
   
   export const webPortfolio = [
@@ -116,78 +114,78 @@ export const featuredPortfolio = [
   export const designPortfolio = [
     {
       id: 1,
-      title: "Design Social Media App",
+      title: "Coming Soon",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "public/assets/coming-soon-store-placeholder-image.gif",
     },
     {
       id: 2,
-      title: "Design Rampa UI Design",
+      title: "Coming Soon",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "public/assets/coming-soon-store-placeholder-image.gif",
     },
     {
       id: 3,
-      title: "Design E-commerce Web Design",
+      title: "Coming Soon",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "public/assets/coming-soon-store-placeholder-image.gif",
     },
     {
       id: 4,
-      title: "Design Relax Mobile App",
+      title: "Coming Soon",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "public/assets/coming-soon-store-placeholder-image.gif",
     },
     {
       id: 5,
-      title: "Design Keser Web Design",
+      title: "Coming Soon",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "public/assets/coming-soon-store-placeholder-image.gif",
     },
     {
       id: 6,
-      title: "Design Banking App",
+      title: "Coming Soon",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "public/assets/coming-soon-store-placeholder-image.gif",
     },
   ];
   
   export const contentPortfolio = [
     {
       id: 1,
-      title: "Content Social Media App",
+      title: "Coming Soon",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "public/assets/coming-soon-store-placeholder-image.gif",
     },
     {
       id: 2,
-      title: "Content Rampa UI Design",
+      title: "Coming Soon",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "public/assets/coming-soon-store-placeholder-image.gif",
     },
     {
       id: 3,
-      title: "Content E-commerce Web Design",
+      title: "Coming Soon",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "public/assets/coming-soon-store-placeholder-image.gif",
     },
     {
       id: 4,
-      title: "Content Relax Mobile App",
+      title: "Coming Soon",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "public/assets/coming-soon-store-placeholder-image.gif",
     },
     {
       id: 5,
-      title: "Content Keser Web Design",
+      title: "Coming Soon",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "public/assets/coming-soon-store-placeholder-image.gif",
     },
     {
       id: 6,
-      title: "Content Banking App",
+      title: "Coming Soon",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "public/assets/coming-soon-store-placeholder-image.gif",
     },
   ];
   
