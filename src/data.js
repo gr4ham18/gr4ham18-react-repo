@@ -4,6 +4,7 @@ export const featuredPortfolio = [
       title: "Git It Done ",
       img:
         "public/assets/gititdone.png",
+        href: "https://gr4ham18.github.io/git-it-done/','_blank"
     },
     {
       id: 2,
@@ -35,6 +36,8 @@ export const featuredPortfolio = [
       img:
         "public/assets/password.png",
     },
+
+    <td onClick={()=> window.open("featuredPortfolio.href", "_blank")}></td>
   ];
   
   export const webPortfolio = [
