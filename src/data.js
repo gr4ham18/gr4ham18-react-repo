@@ -3,37 +3,37 @@ export const featuredPortfolio = [
       id: 1,
       title: "Git It Done ",
       img:
-        "assets/gititdone.png",
+        "public/assets/gititdone.png",
     },
     {
       id: 2,
       title: "Zookeeper",
       img:
-        "assets/Zoo.png",
+        "public/assets/Zoo.png",
     },
     {
       id: 3,
       title: "Taskinator",
       img:
-        "assets/taskinator.png",
+        "public/assets/taskinator.png",
     },
     {
       id: 4,
       title: "Code Quiz",
       img:
-        "assets/codequiz.png",
+        "public/assets/codequiz.png",
     },
     {
       id: 5,
       title: "Note Taker",
       img:
-        "assets/Note Taker.png",
+        "public/assets/Note Taker.png",
     },
     {
       id: 6,
       title: "Password Generator",
       img:
-        "assets/password.png",
+        "public/assets/password.png",
     },
   ];
   
