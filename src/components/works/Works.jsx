@@ -9,7 +9,7 @@ export default function Works() {
       icon: "./assets/github.png",
       title: "Resu_me",
       desc:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
+      "Social media App built with:    Bootstrap - Javascript - Express - Sequelize - MySQL - mysql2 - Handlebars - Insomnia - jQuery. ",
       img:
         "https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/10/attachment_100040756-e1538485934255.jpeg?auto=format&q=60&fit=max&w=930",
       img_app: "./assets/coming-soon-store-placeholder-image.gif",
@@ -21,7 +21,7 @@ export default function Works() {
       icon: "./assets/github.png",
       title: "Words Are Hard",
       desc:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "Social media App built with:Bootstrap - Javascript - Express - Sequelize - MySQL - mysql2 - Handlebars - Insomnia - jQuery ",
       img:
         "https://i.pinimg.com/originals/e9/c9/2f/e9c92f7869d682a6fa5a97fb8a298f30.jpg",
       img_app: "./assets/wah-login.JPG",
@@ -33,7 +33,7 @@ export default function Works() {
       icon: "./assets/github.png",
       title: "Weather To Walk",
       desc:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "Dog walking weather dashboard built with:            HTML - CSS - JavaScript - Materialize - AJAX - Google Fonts.",
       img:
         "https://i.pinimg.com/originals/a9/f6/94/a9f69465d972a004ad581f245d6ad581.jpg",
       img_app: "./assets/weather to walk.png",

@@ -91,7 +91,8 @@
       .center {
         padding: 10px;
         border-radius: 10px;
-        background-color: rgb(250, 244, 245);
+        background-color: rgba(38, 179, 101, 0.192);
+        text-align: center;
         text-decoration: none;
 
         @include mobile{
