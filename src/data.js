@@ -2,8 +2,11 @@ export const featuredPortfolio = [
     {
       id: 1,
       title: "Git It Done ",
+      title_repo: "Git-repo ",
       img:
         "assets/gititdone.png",
+        link: "https://gr4ham18.github.io/git-it-done/",
+        repo: "https://github.com/gr4ham18/git-it-done"
     },
     {
       id: 2,

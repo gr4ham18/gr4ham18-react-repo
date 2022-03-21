@@ -51,6 +51,7 @@
       position: relative;
       transition: all .5s ease;
       cursor: pointer;
+      
 
       @include mobile{
         width: 130px;
@@ -68,6 +69,13 @@
         object-fit: cover;
         z-index: 1;
       }
+      
+      a {
+        text-decoration: none;
+        color: white;
+        
+
+      }
 
       &:hover {
         background-color: $mainColor;
@@ -78,4 +86,12 @@
       }
     }
   }
+}
+
+#right {
+  height: 25px;
+  border-radius: 50%;
+  position: absolute;
+  top: 70%;
+  left: 30%;
 }

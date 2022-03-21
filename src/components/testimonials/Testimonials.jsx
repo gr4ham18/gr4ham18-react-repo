@@ -11,7 +11,7 @@ export default function Testimonials() {
       icon: "assets/github.png",
       desc:
         "View all my Projects and Repos!",
-        a: "https://gitHub.com/gr4ham18"
+        link:"https://github.com/gr4ham18"
     },
     {
       id: 2,
@@ -34,6 +34,7 @@ export default function Testimonials() {
       icon: "assets/linkedin.png",
       desc:
         "Connect with me on LinkedIn",
+        link:"https://linkedin.com/in/gabriel-dornelles-graham/"
     },
   ];
   return (
@@ -44,6 +45,7 @@ export default function Testimonials() {
           <div className={d.featured ? "card featured" : "card"}>
             <div className="top">
               <img src="assets/right-arrow.png" className="left" alt="" />
+
               <img
                 className="user"
                 src={d.img}
@@ -51,9 +53,11 @@ export default function Testimonials() {
               />
               <img className="right" src={d.icon} alt="" />
             </div>
+            <a href={d.link} target="_blank">
             <div className="center">
               {d.desc}
             </div>
+            </a>
             <div className="bottom">
               <h3>{d.name}</h3>
               <h4>{d.title}</h4>
