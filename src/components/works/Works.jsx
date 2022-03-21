@@ -60,7 +60,7 @@ export default function Works() {
             <div className="item">
               <div className="left">
                 <div className="leftContainer">
-                <a href={d.link_repo} target="_blank">
+                <a href={d.repo_link} target="_blank">
                   <div className="imgContainer">                 
                     <img src={d.icon} alt="" />                   
                   </div>
