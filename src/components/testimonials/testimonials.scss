@@ -92,6 +92,7 @@
         padding: 10px;
         border-radius: 10px;
         background-color: rgb(250, 244, 245);
+        text-decoration: none;
 
         @include mobile{
           font-size: 12px;
@@ -121,3 +122,7 @@
     }
   }
 }
+ #description {
+   text-decoration: none;
+   color: black;
+ }

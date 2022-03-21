@@ -54,7 +54,7 @@ export default function Testimonials() {
               <img className="right" src={d.icon} alt="" />
             </div>
             <a href={d.link} target="_blank">
-            <div className="center">
+            <div className="center" id="description">
               {d.desc}
             </div>
             </a>
