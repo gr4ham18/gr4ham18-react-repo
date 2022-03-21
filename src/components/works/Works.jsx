@@ -6,33 +6,39 @@ export default function Works() {
   const data = [
     {
       id: "1",
-      icon: "./assets/mobile.png",
-      title: "Web Design",
+      icon: "./assets/github.png",
+      title: "Resu_me",
       desc:
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
       img:
         "https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/10/attachment_100040756-e1538485934255.jpeg?auto=format&q=60&fit=max&w=930",
-      img_app: "./assets/wah-login.JPG"
+      img_app: "./assets/coming-soon-store-placeholder-image.gif",
+      link: "",
+      repo_link: ""
     },
     {
       id: "2",
-      icon: "./assets/globe.png",
-      title: "Mobile Application",
+      icon: "./assets/github.png",
+      title: "Words Are Hard",
       desc:
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
       img:
         "https://i.pinimg.com/originals/e9/c9/2f/e9c92f7869d682a6fa5a97fb8a298f30.jpg",
-      img_app: "./assets/wah-login.JPG"
+      img_app: "./assets/wah-login.JPG",
+      link: "https://immense-peak-70880.herokuapp.com/",
+      repo_link: "https://github.com/gr4ham18/words-are-hard"
     },
     {
       id: "3",
-      icon: "./assets/writing.png",
-      title: "Branding",
+      icon: "./assets/github.png",
+      title: "Weather To Walk",
       desc:
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
       img:
         "https://i.pinimg.com/originals/a9/f6/94/a9f69465d972a004ad581f245d6ad581.jpg",
-      img_app: "./assets/weather to walk.png"
+      img_app: "./assets/weather to walk.png",
+      link: "https://gr4ham18.github.io/weather-to-walk/",
+      repo_link: "https://github.com/gr4ham18/weather-to-walk"
 
     },
   ];
@@ -55,7 +61,9 @@ export default function Works() {
               <div className="left">
                 <div className="leftContainer">
                   <div className="imgContainer">
+                  <a href={d.link_repo} target="_blank">
                     <img src={d.icon} alt="" />
+                    </a>
                   </div>
                   <h2>{d.title}</h2>
                   <p>{d.desc}</p>
@@ -63,10 +71,12 @@ export default function Works() {
                 </div>
               </div>
               <div className="right">
+              <a href={d.link} target="_blank">
                 <img
                   src={d.img_app}
                   alt=""
                 />
+                </a>
               </div>
             </div>
           </div>

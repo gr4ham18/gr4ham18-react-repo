@@ -16,13 +16,14 @@ export default function Testimonials() {
     {
       id: 2,
       name: "Resume",
-      title: "...",
+      title: "Gabriel Graham",
       img:
-        "assets/writing.png",
+        "assets/resume screenshot.PNG",
       icon: "assets/resume.jpg",
       desc:
         "Check out my resume here!",
       featured: true,
+      link: "https://drive.google.com/file/d/1AFU9CpYyDyoeBG5Wpug5wM4YP_qIbmvM/view?usp=sharing"
       
     },
     {
