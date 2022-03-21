@@ -50,7 +50,7 @@
       color: white;
       position: relative;
       transition: all .5s ease;
-      cursor: pointer;
+      
       
 
       @include mobile{
@@ -61,6 +61,7 @@
       h3 {
         position: absolute;
         font-size: 20px;
+        cursor: pointer;
       }
 
       img {
@@ -82,6 +83,7 @@
         img {
           opacity: 0.2;
           z-index: 0;
+          
         }
         
       }
@@ -101,5 +103,6 @@
 #right:hover {
   z-index: 0;
   opacity: 100%;
+  cursor: pointer;
 
 }
