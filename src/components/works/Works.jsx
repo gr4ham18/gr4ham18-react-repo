@@ -64,7 +64,7 @@ export default function Works() {
               </div>
               <div className="right">
                 <img
-                  src={d.image_app}
+                  src={d.img_app}
                   alt=""
                 />
               </div>
