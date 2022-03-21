@@ -9,12 +9,12 @@ export default function Works() {
       icon: "./assets/github.png",
       title: "Resu_me",
       desc:
-      "Social media App built with:    Bootstrap - Javascript - Express - Sequelize - MySQL - mysql2 - Handlebars - Insomnia - jQuery. ",
+      "Coming Soon",
       img:
         "https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/10/attachment_100040756-e1538485934255.jpeg?auto=format&q=60&fit=max&w=930",
       img_app: "./assets/coming-soon-store-placeholder-image.gif",
       link: "",
-      repo_link: ""
+      repo_link: "https://github.com/gr4ham18/resu_me"
     },
     {
       id: "2",
@@ -67,7 +67,7 @@ export default function Works() {
                   </a>
                   <h2>{d.title}</h2>
                   <p>{d.desc}</p>
-                  <span>Top Projects</span>
+                  <span>Top Project</span>
                 </div>
               </div>
               <div className="right">
