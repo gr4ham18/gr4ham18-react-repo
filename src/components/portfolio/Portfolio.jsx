@@ -82,7 +82,7 @@ export default function Portfolio() {
 
               <h3 ><a id="top" href={d.link} target="_blank">{d.title}</a></h3>
 
-              <img id="right" src="assets/github.png" target="_blank" href={d.repo}/>
+              <img id="right" src="assets/github.pngg" target="_blank" href={d.repo}/>
                 
             </div>
           
