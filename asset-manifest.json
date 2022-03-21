@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/gr4ham18-react-repo/static/css/main.ff034eab.css",
+    "main.css": "/gr4ham18-react-repo/static/css/main.5af1bc59.css",
     "main.js": "/gr4ham18-react-repo/static/js/main.4350a66c.js",
     "index.html": "/gr4ham18-react-repo/index.html",
-    "main.ff034eab.css.map": "/gr4ham18-react-repo/static/css/main.ff034eab.css.map",
+    "main.5af1bc59.css.map": "/gr4ham18-react-repo/static/css/main.5af1bc59.css.map",
     "main.4350a66c.js.map": "/gr4ham18-react-repo/static/js/main.4350a66c.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff034eab.css",
+    "static/css/main.5af1bc59.css",
     "static/js/main.4350a66c.js"
   ]
 }
