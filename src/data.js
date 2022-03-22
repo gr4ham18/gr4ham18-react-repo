@@ -25,11 +25,11 @@ export const featuredPortfolio = [
     },
     {
       id: 4,
-      title: "Code Quiz",
+      title: "Tech Blog",
       img:
-        "assets/codequiz.png",
-        link: "https://gr4ham18.github.io/code-quiz/",
-        repo: "https://github.com/gr4ham18/code-quiz"
+        "assets/techblog.png",
+        link: "https://tech-blog-gr4.herokuapp.com/",
+        repo: "https://github.com/gr4ham18/gr4ham18-tech-blog"
     },
     {
       id: 5,
@@ -75,9 +75,11 @@ export const featuredPortfolio = [
     },
     {
       id: 4,
-      title: "Coming Soon",
+      title: "Code Quiz",
       img:
-        "assets/coming-soon-store-placeholder-image.gif",
+        "assets/codequiz.png",
+        link: "https://gr4ham18.github.io/code-quiz/",
+        repo: "https://github.com/gr4ham18/code-quiz"
     },
     {
       id: 5,
@@ -111,9 +113,11 @@ export const featuredPortfolio = [
     },
     {
       id: 3,
-      title: "Coming Soon",
+      title: "ORM - E-commerce Back End",
       img:
-        "assets/coming-soon-store-placeholder-image.gif",
+        "assets/youtube.png",
+        link: "https://drive.google.com/file/d/1NK5eOyWMj3je2f8q5oJW4oOuWMpX6B3s/view",
+        repo: "https://github.com/gr4ham18/gr4ham18-orm-ecommerce"
     },
     {
       id: 4,
