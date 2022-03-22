@@ -18,7 +18,7 @@ export default function Testimonials() {
       name: "Resume",
       title: "Gabriel Graham",
       img:
-        "assets/resume screenshot.PNG",
+        "assets/Screen Shot 2022-03-21 at 3.04.52 PM.PNG",
       icon: "assets/resume.jpg",
       desc:
         "Check out my resume here!",
