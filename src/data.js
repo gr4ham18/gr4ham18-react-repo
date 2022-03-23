@@ -83,9 +83,11 @@ export const featuredPortfolio = [
     },
     {
       id: 5,
-      title: "Coming Soon",
+      title: "Budget Tracker",
       img:
-        "assets/coming-soon-store-placeholder-image.gif",
+        "assets/budget.png",
+        link: "https://sheltered-shelf-84415.herokuapp.com/",
+        repo: "https://github.com/gr4ham18/gr4ham18-budget-tracker"
     },
     {
       id: 6,
