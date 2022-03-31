@@ -9,12 +9,12 @@ export default function Works() {
       icon: "./assets/github.png",
       title: "Resu_me",
       desc:
-      "Coming Soon",
+      "Resume Generator built with MERN development Stack",
       img:
         "https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/10/attachment_100040756-e1538485934255.jpeg?auto=format&q=60&fit=max&w=930",
-      img_app: "./assets/coming-soon-store-placeholder-image.gif",
-      link: "",
-      repo_link: "https://github.com/gr4ham18/resu_me"
+      img_app: "./assets/resumes.png",
+      link: "https://resu-me2.herokuapp.com/",
+      repo_link: "https://github.com/erinknapp/resu_me "
     },
     {
       id: "2",
